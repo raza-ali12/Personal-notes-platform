@@ -12,3 +12,4 @@
 - 2023-01-13: Code improvements - 2023-01-13
 - 2023-01-14: Mobile app features - 2023-01-14
 - 2023-01-15: Progress update for January 15, 2023
+- 2023-01-16: Mobile app features - 2023-01-16
