@@ -20,3 +20,4 @@
 - 2023-01-22: Database optimization - 2023-01-22
 - 2023-01-24: Feature development - 2023-01-24
 - 2023-01-25: UI/UX improvements - 2023-01-25
+- 2023-01-27: UI/UX improvements - 2023-01-27
