@@ -23,3 +23,4 @@
 - 2023-01-27: UI/UX improvements - 2023-01-27
 - 2023-01-28: Feature development - 2023-01-28
 - 2023-01-29: API development - 2023-01-29
+- 2023-01-30: API development - 2023-01-30
