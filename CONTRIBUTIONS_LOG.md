@@ -31,3 +31,4 @@
 - 2023-02-04: UI/UX improvements - 2023-02-04
 - 2023-02-05: UI/UX improvements - 2023-02-05
 - 2023-02-06: UI/UX improvements - 2023-02-06
+- 2023-02-07: Performance improvements - 2023-02-07
