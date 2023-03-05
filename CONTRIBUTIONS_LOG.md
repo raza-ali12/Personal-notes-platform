@@ -54,3 +54,4 @@
 - 2023-03-02: Code improvements - 2023-03-02
 - 2023-03-03: Mobile app features - 2023-03-03
 - 2023-03-04: Performance improvements - 2023-03-04
+- 2023-03-05: Mobile app features - 2023-03-05
