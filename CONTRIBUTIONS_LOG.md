@@ -76,3 +76,4 @@
 - 2023-03-26: Documentation updates - 2023-03-26
 - 2023-03-27: Code improvements - 2023-03-27
 - 2023-03-29: UI/UX improvements - 2023-03-29
+- 2023-03-30: API development - 2023-03-30
