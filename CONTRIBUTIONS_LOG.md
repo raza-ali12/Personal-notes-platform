@@ -93,3 +93,4 @@
 - 2023-04-15: Refactoring and cleanup - 2023-04-15
 - 2023-04-16: Code improvements - 2023-04-16
 - 2023-04-17: Code improvements - 2023-04-17
+- 2023-04-19: UI/UX improvements - 2023-04-19
