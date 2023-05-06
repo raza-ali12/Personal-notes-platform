@@ -105,3 +105,4 @@
 - 2023-05-02: Bug fixes and optimizations - 2023-05-02
 - 2023-05-03: Documentation updates - 2023-05-03
 - 2023-05-04: Mobile app features - 2023-05-04
+- 2023-05-06: API development - 2023-05-06
