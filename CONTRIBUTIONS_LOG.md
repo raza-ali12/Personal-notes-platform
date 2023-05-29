@@ -123,3 +123,4 @@
 - 2023-05-26: Performance improvements - 2023-05-26
 - 2023-05-27: API development - 2023-05-27
 - 2023-05-28: API development - 2023-05-28
+- 2023-05-29: Documentation updates - 2023-05-29
