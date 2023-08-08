@@ -166,3 +166,4 @@
 - 2023-08-01: Security enhancements - 2023-08-01
 - 2023-08-03: Bug fixes and optimizations - 2023-08-03
 - 2023-08-07: Database optimization - 2023-08-07
+- 2023-08-08: Security enhancements - 2023-08-08
