@@ -228,3 +228,4 @@
 - 2023-11-08: Documentation updates - 2023-11-08
 - 2023-11-10: API development - 2023-11-10
 - 2023-11-11: API development - 2023-11-11
+- 2023-11-13: Security enhancements - 2023-11-13
