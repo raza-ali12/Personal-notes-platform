@@ -230,3 +230,4 @@
 - 2023-11-11: API development - 2023-11-11
 - 2023-11-13: Security enhancements - 2023-11-13
 - 2023-11-15: Security enhancements - 2023-11-15
+- 2023-11-16: Mobile app features - 2023-11-16
