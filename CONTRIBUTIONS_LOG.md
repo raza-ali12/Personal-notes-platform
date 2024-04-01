@@ -336,3 +336,4 @@
 - 2024-03-29: Refactoring and cleanup - 2024-03-29
 - 2024-03-30: Refactoring and cleanup - 2024-03-30
 - 2024-03-31: API development - 2024-03-31
+- 2024-04-01: UI/UX improvements - 2024-04-01
