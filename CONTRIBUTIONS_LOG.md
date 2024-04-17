@@ -348,3 +348,4 @@
 - 2024-04-13: UI/UX improvements - 2024-04-13
 - 2024-04-15: API development - 2024-04-15
 - 2024-04-16: Code improvements - 2024-04-16
+- 2024-04-17: Security enhancements - 2024-04-17
