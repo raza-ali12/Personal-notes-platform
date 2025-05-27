@@ -638,3 +638,4 @@
 - 2025-05-21: Security enhancements - 2025-05-21
 - 2025-05-24: Security enhancements - 2025-05-24
 - 2025-05-26: Code improvements - 2025-05-26
+- 2025-05-27: UI/UX improvements - 2025-05-27
