@@ -662,3 +662,4 @@
 - 2025-06-21: Performance improvements - 2025-06-21
 - 2025-06-23: UI/UX improvements - 2025-06-23
 - 2025-06-24: Code improvements - 2025-06-24
+- 2025-06-25: Mobile app features - 2025-06-25
