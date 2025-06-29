@@ -665,3 +665,4 @@
 - 2025-06-25: Mobile app features - 2025-06-25
 - 2025-06-26: Mobile app features - 2025-06-26
 - 2025-06-27: Feature development - 2025-06-27
+- 2025-06-29: Security enhancements - 2025-06-29
