@@ -1,0 +1,10 @@
+
+> notes-frontend@0.0.0 dev
+> vite --port 5175
+
+
+  VITE v4.5.14  ready in 129 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://192.168.30.147:5175/
+  ➜  press h to show help
